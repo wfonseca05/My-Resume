@@ -1,0 +1,8 @@
+body{
+    background: url(../../assets/img/markus-winkler-7iSEHWsxPLw-unsplash.jpg);
+    width: 100%;
+}
+
+.login-container{
+    height: 100% !important;
+}
