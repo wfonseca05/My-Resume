@@ -79,7 +79,7 @@ function Main() {
             <div className='container'>
                 <div className='d-flex flex-column align-items-center'>
                     <h1>Hola {usuario}! </h1>
-                    <p>FELICITACIONES ESTAS LOGEADO</p>
+                    <p>FELICITACIONES ESTAS LOGEADO Preparate para lo mejor</p>
                 </div>
                 <Provider store={store}>
                     <Pokemones/>
